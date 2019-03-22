@@ -10,7 +10,8 @@
 ;;; *** Add your own tests here! ***
 ;;; ********************************
 ; BEGIN PROBLEM 0
-'replace-this-line
+(+ 1 4)
+; expect 5
 ; END PROBLEM 0
 
 ;;; These are examples from several sections of "The Structure
